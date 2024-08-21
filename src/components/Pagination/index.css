@@ -1,0 +1,18 @@
+.page-no {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.control-btn {
+    border: none;
+    outline: none;
+    width: 60px;
+}
+
+.control-btn:hover {
+    outline: none;
+    box-shadow: 5px 5px 5px aqua;
+}
